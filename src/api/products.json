@@ -1,0 +1,17 @@
+[
+	{
+		"id":0,
+		"image":"https://cdn1.smartprix.com/rx-ifgMKUMYY-w1200-h1200/fgMKUMYY.jpg",
+		"title":"Samsung"
+	},
+	{
+		"id":1,
+		"image":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1681112253/Croma%20Assets/Communication/Mobiles/Images/270910_vnenbq.png?tr=w-1000",
+		"title":"Redmi"
+	},
+	{
+		"id":2,
+		"image":"https://m.media-amazon.com/images/I/71XM12oE-3L._AC_UF894,1000_QL80_.jpg",
+		"title":"Oneplus"
+	}
+]
